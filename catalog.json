@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T08:56:57.767Z",
+  "generatedAt": "2026-11-27T08:58:25.420Z",
   "plugins": [
     {
       "id": "tessera.admin",
@@ -9,7 +9,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/admin-0.1.0.tgz",
-        "integrity": "sha256-ixXucSSymCpHD6zheLg04n/MATgHxtbG3khbNCGbg4I="
+        "integrity": "sha256-P6Y1ANw2IfUO2wyBtZs2nXRui1l9UVEpDpC7ILOa+RE="
       }
     },
     {
@@ -19,7 +19,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/ai-0.1.0.tgz",
-        "integrity": "sha256-TzOFMcynkOnuWfiIjdLNL5DKFp1PV/m33Y4Rr6i1me8="
+        "integrity": "sha256-3xU8+hMQ5JfSAYGjqvHzwaXtz9WVQKtl6DUk+dpMTXc="
       }
     },
     {
@@ -29,7 +29,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/codex-0.1.0.tgz",
-        "integrity": "sha256-NdFP3OmGWQnTOIdQQZ3+lqj9fiTCV9Jl0a3cTzZUoEo="
+        "integrity": "sha256-M51xiqSEj70/QptH/IYxiT1qcJkpk/tJd6R1GLhQn6s="
       }
     },
     {
@@ -39,7 +39,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/foundation-0.1.0.tgz",
-        "integrity": "sha256-d/20CcXbqKll3bmE81U3/L6/SE1K/vXc3GYMlwb/Z2A="
+        "integrity": "sha256-Ahy7IWdS2fi5lf+i8mx0gIAAoX5zkZx/xwg7y0kYPo8="
       }
     },
     {
@@ -49,7 +49,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/i18n-0.1.0.tgz",
-        "integrity": "sha256-UA1yzXRp4RPu5tvOqfnl89DGz74LmYWkQ4m0RPiRhdo="
+        "integrity": "sha256-uoo4s+hWOBpgM76tgdu9pC1rQ9CNdtfzgpMyMyTq4vU="
       }
     },
     {
@@ -59,7 +59,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/log-0.1.0.tgz",
-        "integrity": "sha256-TTR6ftrt/HyPf3HNzJSExd/HDMrX16BMJmE4qeQDKM0="
+        "integrity": "sha256-m06KEHfsKnjKTVe/kq7730suJxfjuZ9ChbZ6I7CJnSM="
       }
     },
     {
@@ -69,7 +69,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/manuscript-0.1.0.tgz",
-        "integrity": "sha256-/3ELmUyTwIE7ZWx4z8aJJsIT98C23UACHKyvpvvP/b0="
+        "integrity": "sha256-uZioPe0eb2uLBZIx/H7kdQyiop8NrSLmUCgxYRCXy9o="
       }
     },
     {
@@ -79,7 +79,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/pipeline-0.1.0.tgz",
-        "integrity": "sha256-8IEsZ9LTp1KJtf3RZwRORf2KgurrsFeOup1/ujhCV34="
+        "integrity": "sha256-aqiwYBQhSWhSEMy7hQTyu7fZu/S/JtTj9dyBDZNoJOY="
       }
     },
     {
@@ -89,7 +89,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/transfer-0.1.0.tgz",
-        "integrity": "sha256-GCpMMvXB4lidQSHF7NQ4DG0B/ZKs6UamTKcq/Geh7tg="
+        "integrity": "sha256-viQPa3MXe2ab/gKR5QRx6i4rTONI6T7vvA3xpabX+1Y="
       }
     },
     {
@@ -99,7 +99,7 @@
       "capabilities": [],
       "dist": {
         "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/clock-0.1.0.tgz",
-        "integrity": "sha256-1ULXl0iHKAfK83dHPUscri3rwUIdt2BTN0MuZlck0NY="
+        "integrity": "sha256-itClnLZLGK1sSL6tHYyNZsZiLcgUgAPDTWprOhJHkBw="
       }
     }
   ]
