@@ -7,12 +7,12 @@
 
 ## 用法
 
-启动 Tessera 宿主时设置环境变量：
+在 `tessera.config.json` 里写 `catalogUrl`，或启动时设置：
 
 ```
 TESSERA_CATALOG_URL=https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/catalog.json
 ```
 
-市场面板会出现「目录」段；已安装的插件不会重复显示。
+市场面板的「目录」段只列出**尚未安装**的条目。
 
 目录与包均由工具生成，请勿手改。
