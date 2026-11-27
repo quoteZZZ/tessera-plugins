@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T08:49:20.928Z",
+  "plugins": [
+    {
+      "id": "tessera.admin",
+      "name": "设置",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/admin-0.1.0.tgz",
+        "integrity": "sha256-iqQznj1hsxUxdtF1dxY8HSzWaZH91Gwuk3RxJ4kTmh8="
+      }
+    },
+    {
+      "id": "tessera.ai",
+      "name": "AI 助手",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/ai-0.1.0.tgz",
+        "integrity": "sha256-POHImQ9L5dAT6NNVOVj1uy3YNX1ypywjdeyRzGPz7nA="
+      }
+    },
+    {
+      "id": "tessera.codex",
+      "name": "设定库",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/codex-0.1.0.tgz",
+        "integrity": "sha256-zEa1+McSpcdxK5CPJeMfml/saHc5oSca1vgDloOCSho="
+      }
+    },
+    {
+      "id": "tessera.foundation",
+      "name": "基础服务",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/foundation-0.1.0.tgz",
+        "integrity": "sha256-EiD5mGDOB2Tx8xntn1H0sghOPcaQH5WQEQtZzozPZgQ="
+      }
+    },
+    {
+      "id": "tessera.i18n",
+      "name": "多语言",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/i18n-0.1.0.tgz",
+        "integrity": "sha256-0A/66qmyO84jjzsh2hPcOvu6n3kUlCAXXUHgcTP24eg="
+      }
+    },
+    {
+      "id": "tessera.log",
+      "name": "日志",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/log-0.1.0.tgz",
+        "integrity": "sha256-Pez4FXc+HmRrt3EdzCkOHsPyNIC3q6XAWybjYYuRihI="
+      }
+    },
+    {
+      "id": "tessera.manuscript",
+      "name": "文稿",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/manuscript-0.1.0.tgz",
+        "integrity": "sha256-NI8yvRmpE92m6UVZoUWZkCrhKNYAdMTS7y0M/S6QJI0="
+      }
+    },
+    {
+      "id": "market",
+      "name": "market",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/market-0.1.0.tgz",
+        "integrity": "sha256-bbugunwsC4+EwXP39oshhAXIu6Hn1UTQhuC7C+8bY1M="
+      }
+    },
+    {
+      "id": "tessera.pipeline",
+      "name": "审改",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/pipeline-0.1.0.tgz",
+        "integrity": "sha256-T96eh6Hc0u+S76anfeN+scE1c2yFyUZHk99lIGzbXXQ="
+      }
+    },
+    {
+      "id": "tessera.transfer",
+      "name": "导入导出",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/transfer-0.1.0.tgz",
+        "integrity": "sha256-EvglJuMGEXkjLv1MpwwT5mMMRN6+MuGbqm8mrTC+Yso="
+      }
+    },
+    {
+      "id": "trash",
+      "name": "trash",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/trash-0.1.0.tgz",
+        "integrity": "sha256-aqbLORH7lN+X9ULeBzwDIaISw3hNxISqBxW42CEpc3A="
+      }
+    },
+    {
+      "id": "ui",
+      "name": "ui",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/ui-0.1.0.tgz",
+        "integrity": "sha256-CBWKcg9kzKhqIoxeflAz/OPtC8CvoW0kJvWfA6d94Jc="
+      }
+    },
+    {
+      "id": "versions",
+      "name": "versions",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/versions-0.1.0.tgz",
+        "integrity": "sha256-t/JbGYkHTlwxXvt95rQcui7IxE68J8wR7dxvClUaqOU="
+      }
+    },
+    {
+      "id": "workbench",
+      "name": "workbench",
+      "version": "0.1.0",
+      "capabilities": [],
+      "dist": {
+        "url": "https://raw.githubusercontent.com/quoteZZZ/tessera-plugins/main/workbench-0.1.0.tgz",
+        "integrity": "sha256-JA54M0FFANfqe8NZrYA0pNIvsZYCB+dzxzBUTYrGXkc="
+      }
+    }
+  ]
+}
